@@ -142,3 +142,55 @@ img {
 }
 
 
+/* HERO */
+.hero {
+
+}
+
+.hero__container {
+  padding-top: 80px;
+  padding-bottom: 35px;
+  display: flex;
+  align-items: center;
+}
+
+.hero__info {
+
+}
+
+.hero__title {
+  color: #21243D;
+  font-size: 44px;
+  line-height: 1.3;
+  width: 506px;
+}
+
+.hero__text {
+  color: #21243D;
+  font-size: 16px;
+  line-height: 1.4;
+  max-width: 497px;
+  margin-top: 40px;
+  margin-bottom: 38px;
+}
+
+.button {
+  background-color: #ff6464;
+  color: #fff;
+  text-decoration: none;
+  padding: 9px;
+  border-radius: 2px;
+  text-transform: capitalize;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+.button:active {
+  opacity: 0.6;
+}
+
+.hero__img {
+  margin-left: auto;
+}
